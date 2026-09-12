@@ -23,11 +23,9 @@
 
 | 电脑端 | 移动端 |
 |--------|--------|
-| ![desktop](docs/screenshots/desktop-panel.png) | ![mobile](docs/screenshots/mobile-button.png) |
+| ![desktop](docs/screenshots/desktop-panel.png) | ![mobile](docs/screenshots/mobile-button.jpg) |
 
-| 课表预览 |
-|----------|
-| ![preview](docs/screenshots/preview-modal.png) |
+
 
 ## 🚀 安装
 
